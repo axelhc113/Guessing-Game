@@ -1,6 +1,6 @@
-# Name: YOUR NAME
-# Course: YOUR COURSE NUMBER
-# Lab: Guessing Game (or your lab title)
+# Name: Axel Hidrovo
+# Course: CIS261
+# Lab: Guessing Game
 
 import random
 
